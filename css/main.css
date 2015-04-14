@@ -75,7 +75,7 @@ hr {
 	margin-bottom: 20px;
 	background: #fff;
 	background: rgba(255,255,255,0.9);
-	height: 850px;
+	/* [disabled]height: 850px; */
 	padding-top: 30px;
 	padding-right: 15px;
 	padding-bottom: 30px;
@@ -103,11 +103,12 @@ hr {
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
+	margin: 0;
+    padding: 50px 0;
 }
 
 footer p {
-    margin: 0;
-    padding: 50px 0;
+  
 }
 
 
